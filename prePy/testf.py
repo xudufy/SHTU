@@ -1,0 +1,9 @@
+s='\n\n'
+s1='''\n
+'''
+print(s1==s)
+print(repr(s1))
+print(repr(s))
+print(repr(s1)==repr(s))
+print('*'+s1+'*')
+print('*'+s+'*')
